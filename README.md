@@ -8,14 +8,14 @@
 
 **后端**更多的是与数据库进行交互以处理相应的业务逻辑。需要考虑的是如何实现功能、数据的存取、平台的稳定性与性能等。
 
-## HTML&&CSS
+## 1. HTML&&CSS
 
 HTML与CSS是web前端的基础。  
 参考资料：
 [HTML 简介 - W3School](http://www.w3school.com.cn/html/html_intro.asp)
 
 
-## GitHub
+## 2. GitHub
 
 组员们都注册了GitHub账号，此处发布有关资料，供第一次接触GitHub的同学使用。
 
@@ -32,8 +32,23 @@ HTML与CSS是web前端的基础。
 &nbsp;&nbsp;[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 
-## 用GitHub创建一个网站
+## 3. 用GitHub创建一个网站
+
+在学习HTML的同时，创建一个网站，以验证你的学习成果。
 
 1.来自课程codes2things的教程
 &nbsp;&nbsp;<a href="http://swjtu-maker.github.io/codes2things/course/2016-2/files/github_pages_howto.pdf">GitHub项目网站制作简明教程[PDF]</a><br>
 &nbsp;&nbsp;为了方便移动设备用户浏览，已转换为[网页版](https://lianglanzheng.github.io/HW-Guide/others/github_pages_howto.html)
+
+
+## 4. 使用远程主机 云主机/服务器/VPS
+
+*此部分还没开始编写*
+
+
+## 5. 了解Linux
+
+*待完善*
+Linux与Windows有许多不同，熟悉它！<br>
+资料很多很长，不可能完全看完，部分资料上传至[documents](https://github.com/swjtu-maker/webTeam/tree/master/documents)<br>
+暂时只推荐《Red Hat Linux用户基础》中1、2、3、4、5章。要注意的是该书的一些命令可能不适用于你的Linux（一些命令已经淘汰或在其他常见Linux发行版没有）

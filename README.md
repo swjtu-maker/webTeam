@@ -12,8 +12,7 @@
 
 HTML与CSS是web前端的基础。  
 参考资料：
-[w3school](http://www.w3school.com.cn/html/html_intro.asp)
-
+<a href="http://www.w3school.com.cn/html/html_intro.asp" target="_blank">HTML 简介 - W3School</a>
 
 ## GitHub&&Git
 
@@ -21,7 +20,7 @@ HTML与CSS是web前端的基础。
 
 1.基本的GitHub使用<br>
 &nbsp;&nbsp;参考资料：<br>
-&nbsp;&nbsp;[GitHub入门 by llz](https://lianglanzheng.github.io/HW-Guide/1.1.html)<br>
+&nbsp;&nbsp;<a href="https://lianglanzheng.github.io/HW-Guide/1.1.html" target="_blank">GitHub入门 by llz</a><br>
 2.Git使用<br>
 &nbsp;&nbsp;参考资料：<br>
-&nbsp;&nbsp;[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+&nbsp;&nbsp;<a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000" target="_blank">Git教程 - 廖雪峰的官方网站</a>

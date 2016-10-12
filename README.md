@@ -22,6 +22,16 @@ HTML与CSS是web前端的基础。
 1.基本的GitHub使用<br>
 &nbsp;&nbsp;参考资料：<br>
 &nbsp;&nbsp;[GitHub入门 by llz](https://lianglanzheng.github.io/HW-Guide/1.1.html)<br>
-2.Git使用<br>
+2.知乎上的github教程：Github 四步走<br>
+&nbsp;&nbsp;[GitHub for Windows使用教程(一)](http://youngxhui.github.io/2016/05/03/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%28%E4%B8%80%29/)<br>
+&nbsp;&nbsp;[GitHub for Windows使用教程(二)](http://youngxhui.github.io/2016/05/13/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%28%E4%BA%8C%29/)<br>
+&nbsp;&nbsp;[GitHub for Windows使用教程（三）](http://youngxhui.github.io/2016/05/15/GitHub-for-windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89/)<br>
+&nbsp;&nbsp;[GitHub for Windows使用教程（四）](http://youngxhui.github.io/2016/08/28/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89/)<br>
+3.深入使用GitHub，你需要了解Git的使用<br>
 &nbsp;&nbsp;参考资料：<br>
 &nbsp;&nbsp;[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+
+## 用GitHub创建一个网站
+
+1.来自课程codes2things的教程

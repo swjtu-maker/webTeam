@@ -36,4 +36,4 @@ HTML与CSS是web前端的基础。
 
 1.来自课程codes2things的教程
 &nbsp;&nbsp;<a href="http://swjtu-maker.github.io/codes2things/course/2016-2/files/github_pages_howto.pdf">GitHub项目网站制作简明教程[PDF]</a><br>
-&nbsp;&nbsp;为了方便移动设备用户浏览，已转换为[网页版](https://raw.githubusercontent.com/swjtu-maker/webTeam/master/github_pages_howto.html)
+&nbsp;&nbsp;为了方便移动设备用户浏览，已转换为[网页版](https://lianglanzheng.github.io/HW-Guide/others/github_pages_howto.html)

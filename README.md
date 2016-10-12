@@ -19,14 +19,9 @@ HTML与CSS是web前端的基础。
 
 组员们都注册了GitHub账号，此处发布有关资料，供第一次接触GitHub的同学使用。
 
-1.基本的GitHub使用
-
-  参考资料：
-
-  [GitHub入门 by llz](https://lianglanzheng.github.io/HW-Guide/1.1.html)
-
-2.Git使用
-
-  参考资料：
-
-  [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+1.基本的GitHub使用<br>
+&nbsp;&nbsp;参考资料：<br>
+&nbsp;&nbsp;[GitHub入门 by llz](https://lianglanzheng.github.io/HW-Guide/1.1.html)<br>
+2.Git使用<br>
+&nbsp;&nbsp;参考资料：<br>
+&nbsp;&nbsp;[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)

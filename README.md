@@ -48,7 +48,7 @@ HTML与CSS是web前端的基础。
 
 ## 5. 了解Linux
 
-*待完善*
+***待完善***<br>
 Linux与Windows有许多不同，熟悉它！<br>
 资料很多很长，不可能完全看完，部分资料上传至[documents](https://github.com/swjtu-maker/webTeam/tree/master/documents)<br>
 暂时只推荐《Red Hat Linux用户基础》中1、2、3、4、5章。要注意的是该书的一些命令可能不适用于你的Linux（一些命令已经淘汰或在其他常见Linux发行版没有）

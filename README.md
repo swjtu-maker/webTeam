@@ -72,8 +72,8 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 
 在学习HTML的同时，创建一个网站，以验证你的学习成果。
 
-1.<a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">GitHub Pages的官方文档[英语]</a>
-2.[llz的GitHub Pages教程](https://lianglanzheng.github.io/Hello-World-Guide/1.2.html)
+1.<a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">GitHub Pages的官方文档[英语]</a><br>
+2.[llz的GitHub Pages教程](https://lianglanzheng.github.io/Hello-World-Guide/1.2.html)<br>
 3.来自课程codes2things的教程<br>
 &nbsp;&nbsp;<a href="http://swjtu-maker.github.io/codes2things/course/2016-2/files/github_pages_howto.pdf">GitHub项目网站制作简明教程[PDF]</a><br>
 &nbsp;&nbsp;为了方便移动设备用户浏览，已转换为[网页版](https://lianglanzheng.github.io/Hello-World-Guide/others/github_pages_howto.html)

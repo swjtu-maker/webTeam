@@ -29,7 +29,6 @@ HTML 是属于 Web 的语言，每个开发人员都应对它具备基本的了�
 ### JavaScript - 客户端脚本
 JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览器编程。
 你很有必要学习 JavaScript，这样你就有能力提供动态性更强的网站内容。
-一个类似 document.write("<p>" + date + "</p>") 的 JavaScript 语句，可以向 HTML 页面写入动态的文本。
 
 参考资料：
 [JavaScript教程 - W3School](http://www.w3school.com.cn/js/index.asp)

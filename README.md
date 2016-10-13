@@ -57,7 +57,7 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 
 1.基本的GitHub使用<br>
 &nbsp;&nbsp;参考资料：<br>
-&nbsp;&nbsp;[GitHub入门 by llz](https://lianglanzheng.github.io/HW-Guide/1.1.html)<br>
+&nbsp;&nbsp;[GitHub入门 by llz](https://lianglanzheng.github.io/Hello-World-Guide/1.1.html)<br>
 2.知乎上的github教程：Github 四步走<br>
 &nbsp;&nbsp;[GitHub for Windows使用教程(一)](http://youngxhui.github.io/2016/05/03/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%28%E4%B8%80%29/)<br>
 &nbsp;&nbsp;[GitHub for Windows使用教程(二)](http://youngxhui.github.io/2016/05/13/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%28%E4%BA%8C%29/)<br>
@@ -72,9 +72,11 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 
 在学习HTML的同时，创建一个网站，以验证你的学习成果。
 
-1.来自课程codes2things的教程
+1.<a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">GitHub Pages的官方文档[英语]</a>
+2.[llz的GitHub Pages教程](https://lianglanzheng.github.io/Hello-World-Guide/1.2.html)
+3.来自课程codes2things的教程<br>
 &nbsp;&nbsp;<a href="http://swjtu-maker.github.io/codes2things/course/2016-2/files/github_pages_howto.pdf">GitHub项目网站制作简明教程[PDF]</a><br>
-&nbsp;&nbsp;为了方便移动设备用户浏览，已转换为[网页版](https://lianglanzheng.github.io/HW-Guide/others/github_pages_howto.html)
+&nbsp;&nbsp;为了方便移动设备用户浏览，已转换为[网页版](https://lianglanzheng.github.io/Hello-World-Guide/others/github_pages_howto.html)
 
 
 ## 5. 使用远程主机 云主机/服务器/VPS
@@ -86,7 +88,7 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 
 ***待完善***<br>
 Linux与Windows有许多不同，熟悉它！<br>
-资料很多很长，不可能完全看完，部分资料上传至[documents](https://github.com/swjtu-maker/webTeam/tree/master/documents)<br>
+资料很多很长，不可能完全看完，超过100M的资料无法上传至[documents](https://github.com/swjtu-maker/webTeam/tree/master/documents)<br>
 暂时只推荐《Red Hat Linux用户基础》中1、2、3、4、5章。要注意的是该书的一些命令可能不适用于你的Linux（一些命令已经淘汰或在其他常见Linux发行版没有）
 
 

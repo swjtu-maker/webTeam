@@ -88,8 +88,9 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 
 ***待完善***<br>
 Linux与Windows有许多不同，熟悉它！<br>
-资料很多很长，不可能完全看完，超过100M的资料无法上传至[documents](https://github.com/swjtu-maker/webTeam/tree/master/documents)<br>
-暂时只推荐《Red Hat Linux用户基础》中1、2、3、4、5章。要注意的是该书的一些命令可能不适用于你的Linux（一些命令已经淘汰或在其他常见Linux发行版没有）
+资料很多很长，不可能完全看完<br>
+[Debian参考手册的Linux教程](https://www.debian.org/doc/manuals/debian-reference/ch01.zh-cn.html)<br>
+超过100M的资料无法上传至[documents](https://github.com/swjtu-maker/webTeam/tree/master/documents)
 
 
 ## 附加教程 如何搭梯子

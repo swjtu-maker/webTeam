@@ -53,7 +53,8 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 
 ## 3. GitHub
 
-组员们都注册了GitHub账号，此处发布有关资料，供第一次接触GitHub的同学使用。
+组员们都注册了GitHub账号，此处发布有关资料，供第一次接触GitHub的同学使用。<br>
+*（以下3篇资料选一阅读）*
 
 1.基本的GitHub使用<br>
 &nbsp;&nbsp;参考资料：<br>
@@ -70,7 +71,8 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 
 ## 4. 用GitHub创建一个网站
 
-在学习HTML的同时，创建一个网站，以验证你的学习成果。
+在学习HTML的同时，创建一个网站，以验证你的学习成果。<br>
+*（以下3篇资料选一阅读）*
 
 1.<a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">GitHub Pages的官方文档[英语]</a><br>
 2.[llz的GitHub Pages教程](https://lianglanzheng.github.io/Hello-World-Guide/1.2.html)<br>
@@ -81,7 +83,7 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 
 ## 5. 使用远程主机 云主机/服务器/VPS
 
-*此部分还没开始编写*
+*没有腾讯云，申请了腾讯云的同学尝试使用SSH登陆你的主机写一篇教程吧*
 
 
 ## 6. 了解Linux
@@ -89,8 +91,7 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 ***待完善***<br>
 Linux与Windows有许多不同，熟悉它！<br>
 资料很多很长，不可能完全看完<br>
-[Debian参考手册的Linux教程](https://www.debian.org/doc/manuals/debian-reference/ch01.zh-cn.html)<br>
-超过100M的资料无法上传至[documents](https://github.com/swjtu-maker/webTeam/tree/master/documents)
+[Debian参考手册的Linux教程](https://www.debian.org/doc/manuals/debian-reference/ch01.zh-cn.html)
 
 
 ## 7. 搭建服务器

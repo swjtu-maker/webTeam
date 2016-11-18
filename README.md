@@ -59,14 +59,14 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 1.基本的GitHub使用<br>
 &nbsp;&nbsp;参考资料：<br>
 &nbsp;&nbsp;[GitHub入门 by llz](https://lianglanzheng.github.io/Hello-World-Guide/1.1.html)<br>
-2.知乎上的github教程：Github 四步走 (作者：[youngxhui](https://github.com/youngxhui))<br>
+2.知乎上的github教程：Github 四步走 **(作者：[youngxhui](https://github.com/youngxhui))**<br>
 &nbsp;&nbsp;[GitHub for Windows使用教程(一)](http://youngxhui.github.io/2016/05/03/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%28%E4%B8%80%29/)<br>
 &nbsp;&nbsp;[GitHub for Windows使用教程(二)](http://youngxhui.github.io/2016/05/13/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%28%E4%BA%8C%29/)<br>
 &nbsp;&nbsp;[GitHub for Windows使用教程（三）](http://youngxhui.github.io/2016/05/15/GitHub-for-windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89/)<br>
 &nbsp;&nbsp;[GitHub for Windows使用教程（四）](http://youngxhui.github.io/2016/08/28/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89/)<br>
 3.深入使用GitHub，你需要了解Git的使用<br>
 &nbsp;&nbsp;参考资料：<br>
-&nbsp;&nbsp;[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+&nbsp;&nbsp;[Git教程 - 廖雪峰的官方网站 **(作者：廖雪峰)**](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 
 ## 4. 用GitHub创建一个网站
@@ -76,7 +76,7 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 
 1.<a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">GitHub Pages的官方文档[英语]</a><br>
 2.[llz的GitHub Pages教程](https://lianglanzheng.github.io/Hello-World-Guide/1.2.html)<br>
-3.来自课程codes2things的教程<br>
+3.来自课程[codes2things](http://swjtu-maker.github.io/codes2things/)的教程 **(作者：Li Jun, Southwest Jiaotong University)**<br>
 &nbsp;&nbsp;<a href="http://swjtu-maker.github.io/codes2things/course/2016-2/files/github_pages_howto.pdf">GitHub项目网站制作简明教程[PDF]</a><br>
 &nbsp;&nbsp;为了方便移动设备用户浏览，已转换为[网页版](https://lianglanzheng.github.io/Hello-World-Guide/others/github_pages_howto.html)
 

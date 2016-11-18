@@ -59,7 +59,7 @@ JavaScript 用于客户端的脚本化。客户端脚本化指的是 Web 浏览�
 1.基本的GitHub使用<br>
 &nbsp;&nbsp;参考资料：<br>
 &nbsp;&nbsp;[GitHub入门 by llz](https://lianglanzheng.github.io/Hello-World-Guide/1.1.html)<br>
-2.知乎上的github教程：Github 四步走<br>
+2.知乎上的github教程：Github 四步走 (作者：[youngxhui](https://github.com/youngxhui))<br>
 &nbsp;&nbsp;[GitHub for Windows使用教程(一)](http://youngxhui.github.io/2016/05/03/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%28%E4%B8%80%29/)<br>
 &nbsp;&nbsp;[GitHub for Windows使用教程(二)](http://youngxhui.github.io/2016/05/13/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%28%E4%BA%8C%29/)<br>
 &nbsp;&nbsp;[GitHub for Windows使用教程（三）](http://youngxhui.github.io/2016/05/15/GitHub-for-windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89/)<br>
